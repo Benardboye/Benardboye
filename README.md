@@ -7,4 +7,4 @@ If it will solve a problem, I want to be part of it. Solving problems excites me
 
 Visit LinkedIn profile for more about me.
 
-linkedin.com/in/adeboye-samuel-adeyemi-6b52ab16a
+www.linkedin.com/in/adeboye-samuel-adeyemi
