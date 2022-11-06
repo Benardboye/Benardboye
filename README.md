@@ -1,4 +1,4 @@
-Hi there 👋
+Hi, I'm Samuel Adeboye 👋
 
 I am a software developer with a cumulative of 1 years experience. My skills set include TypeScript, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, TDD with Jest, REST APIs, JSON, MySQL, Postgres, MongoDB, Graphql, Git, GitHub, Docker, DockerHub, WordPress, Cpanel Hosting, Heroku.
 
