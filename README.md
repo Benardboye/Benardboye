@@ -1,7 +1,6 @@
 Hi, I'm Samuel Adeboye 👋
 
-I am a software engineer with three years of experience. I am skilled at finding solutions, building scalable applications, and learning new technologies quickly. I am optimistic, goal-oriented, and committed to delivering high-quality, executable code.
-
+As a skilled software engineer with three years of experience, I excel in crafting innovative solutions, constructing scalable applications, and swiftly mastering new technologies. My optimistic outlook, goal-oriented mindset, and unwavering commitment to delivering high-quality, executable code are the driving forces behind my success.
 
 Visit LinkedIn profile for more about me.
 
